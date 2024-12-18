@@ -387,7 +387,6 @@
   font-size: 36px;
   margin: 0;
   background: linear-gradient(to right, #36BFFA, #7B67EE);
-  -webkit-background-clip: text;
   color: transparent;
 }
 
